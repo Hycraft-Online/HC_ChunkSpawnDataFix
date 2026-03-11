@@ -2,5 +2,5 @@
   "required": true,
   "minVersion": "0.8",
   "package": "com.hcchunkspawndatafix.mixin",
-  "mixins": ["WorldSpawningSystemMixin"]
+  "mixins": ["WorldSpawningSystemMixin", "BlockHealthSystemMixin", "BlockChunkMixin"]
 }
